@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\2 second year\data structures and algorithms\tutorial 2\tutorial 2\tutorial 2\source.cpp(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\2 second year\data structures and algorithms\tutorial 2\tutorial 2\tutorial 2\source.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Tutorial 2.vcxproj -> E:\2 Second Year\Data structures and Algorithms\Tutorial 2\Tutorial 2\Debug\Tutorial 2.exe
+  Tutorial 2.vcxproj -> E:\2 Second Year\Data structures and Algorithms\Tutorial 2\Tutorial 2\Debug\Tutorial 2.pdb (Partial PDB)

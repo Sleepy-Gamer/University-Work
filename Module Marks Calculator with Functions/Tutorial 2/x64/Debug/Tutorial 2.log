@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\users\katherine\documents\uni and other projects\second year\github\module marks calculator with functions\tutorial 2\source.cpp(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\users\katherine\documents\uni and other projects\second year\github\module marks calculator with functions\tutorial 2\source.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Tutorial 2.vcxproj -> D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\GitHub\Module Marks Calculator with Functions\x64\Debug\Tutorial 2.exe
+  Tutorial 2.vcxproj -> D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\GitHub\Module Marks Calculator with Functions\x64\Debug\Tutorial 2.pdb (Partial PDB)
