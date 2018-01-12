@@ -1,0 +1,32 @@
+#version 330
+
+uniform mat4 projectionMatrix;
+uniform mat4 T; // Transformation matrix
+
+
+// Input vertex packet
+layout (location = 0) in vec2 position;
+layout (location = 1) in vec4 colour;
+layout (location = 5) in vec2 textureCoord;
+
+
+// Output vertex packet
+out packet {
+
+	vec4 colour;
+	vec2 textureCoord;
+
+} outputVertex;
+
+
+
+void main(void) {	
+
+	outputVertex.colour = colour;
+	outputVertex.textureCoord = textureCoord;
+
+	vec4 pos = vec4(position.x, position.y, 0.0, 1.0);
+
+	gl_Position = projectionMatrix * T * pos;
+}
+

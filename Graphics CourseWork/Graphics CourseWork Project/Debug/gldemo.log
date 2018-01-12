@@ -1,0 +1,37 @@
+﻿Build started 21/12/2017 18:20:49.
+     1>Project "D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\Graphics\OpenGL\Tutorials\Graphics CW - Copy\gldemo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\gldemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gldemo.cpp
+         gldemo.cpp
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(133): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(169): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(209): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(544): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(549): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(555): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(563): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(565): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(654): warning C4305: 'argument' : truncation from 'double' to 'const float'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(762): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(763): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(766): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(768): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(853): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(856): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(859): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>d:\users\katherine\documents\uni and other projects\second year\graphics\opengl\tutorials\graphics cw - copy\gldemo.cpp(862): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\Graphics\OpenGL\Tutorials\Graphics CW - Copy\Debug\gldemo.exe" /INCREMENTAL /NOLOGO FreeImage\FreeImagePlus.lib windowscodecs.lib CoreStructures\CoreStructures.lib freeglut\freeglut.lib glew\glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\Graphics\OpenGL\Tutorials\Graphics CW - Copy\Debug\gldemo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\Graphics\OpenGL\Tutorials\Graphics CW - Copy\Debug\gldemo.lib" /MACHINE:X86 Debug\Base_Hull.obj
+         Debug\Boat.obj
+         Debug\Flags.obj
+         Debug\gldemo.obj
+         Debug\Poles.obj
+         Debug\shader_setup.obj
+         Debug\stdafx.obj
+         Debug\texture_loader.obj
+         gldemo.vcxproj -> D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\Graphics\OpenGL\Tutorials\Graphics CW - Copy\Debug\gldemo.exe
+     1>Done Building Project "D:\Users\Katherine\Documents\Uni and Other Projects\Second Year\Graphics\OpenGL\Tutorials\Graphics CW - Copy\gldemo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34
